@@ -1,0 +1,28 @@
+.new-payment-form {
+  width: 400px;
+}
+
+mat-card-content {
+  padding: 10px;
+}
+
+mat-form-field {
+  display: block;
+}
+
+.file-upload {
+  display: inline;
+}
+
+.container {
+  display: flex;
+  justify-content: left;
+  gap: 100px;
+
+}
+
+.pdf-viewer {
+  height: 400px;
+  width: 600px;
+  max-width: 1200px;
+}
